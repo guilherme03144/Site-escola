@@ -5,12 +5,12 @@
   padding: 24px 0;
 }
 
-section1{
+.section1{
     background-color: brown;
   padding: 100px;
 }
 
-section2{
+.section2{
     background-color: blue;
     padding: 100px;
 }
